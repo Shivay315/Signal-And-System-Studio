@@ -2132,14 +2132,18 @@ class SignalsStudio:
 
             try:
                 self.cursor_line.remove()
-            except ValueError:
+            except (ValueError, NotImplementedError, AttributeError):
+                # The axes may already have removed this artist (for
+                # example after ax.clear()).  Either way, the reference
+                # below is about to be reset.
                 pass
 
         if self.cursor_text is not None:
 
             try:
                 self.cursor_text.remove()
-            except ValueError:
+            except (ValueError, NotImplementedError, AttributeError):
+                # Same situation for the cursor annotation.
                 pass
 
         self.cursor_line = None
@@ -2229,6 +2233,7 @@ class SignalsStudio:
 
         self._refresh_history_menu()
 
+        self.clear_cursor()
         self.ax.clear()
 
         # Main curve
@@ -2457,6 +2462,7 @@ class SignalsStudio:
         message: str,
     ):
 
+        self.clear_cursor()
         self.ax.clear()
 
         self.ax.set_facecolor(
@@ -2637,6 +2643,7 @@ class SignalsStudio:
 
         self.clear_cursor()
 
+        self.clear_cursor()
         self.ax.clear()
 
         self.ax.set_facecolor(
@@ -3197,6 +3204,7 @@ class SignalsStudio:
 
             return
 
+        self.clear_cursor()
         self.ax.clear()
 
         self.ax.plot(
