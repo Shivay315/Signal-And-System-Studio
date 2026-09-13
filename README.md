@@ -145,8 +145,7 @@ r(t)-2*r(t-1)+r(t-2)
 
 Press **Enter** in the expression field or press **Plot expression**.
 
-### Screenshot to add here
-**Filename:** <img width="1470" height="926" alt="image" src="https://github.com/user-attachments/assets/877a9c60-fc1f-46df-ae8b-2fdf0c39fe36" />
+<img width="1470" height="926" alt="image" src="https://github.com/user-attachments/assets/877a9c60-fc1f-46df-ae8b-2fdf0c39fe36" />
 
 
 Capture the complete application window while the expression box contains a non-trivial example such as:
@@ -186,8 +185,7 @@ Available quick-entry signals include:
 
 Clicking one of these buttons inserts the function into the expression field.
 
-### Screenshot to add here
-**Filename:** <img width="370" height="211" alt="image" src="https://github.com/user-attachments/assets/ad61e9d9-8c40-4602-ba59-52a01e4c683d" />
+<img width="370" height="211" alt="image" src="https://github.com/user-attachments/assets/ad61e9d9-8c40-4602-ba59-52a01e4c683d" />
 
 
 Capture the left sidebar with the **Insert functions** section fully visible. Make sure the graph is also visible on the right so readers can understand that the buttons are connected to the plotter.
@@ -204,8 +202,7 @@ The sidebar is designed to work with normal mouse-wheel input and macOS trackpad
 
 The embedded sidebar width is constrained to the visible panel so that controls do not intentionally create a horizontal overflow.
 
-### Screenshot to add here
-**Filename:** <img width="407" height="841" alt="image" src="https://github.com/user-attachments/assets/8ed778f4-5b5d-4f60-988e-545437059e36" />
+<img width="407" height="841" alt="image" src="https://github.com/user-attachments/assets/8ed778f4-5b5d-4f60-988e-545437059e36" />
 
 
 Capture the application at a smaller vertical size where the lower sidebar sections are partially hidden. Then scroll the sidebar down and capture a second image.
@@ -361,8 +358,7 @@ The program should open as a desktop application.
 
 The application automatically plots the default expression when it starts.
 
-### Screenshot to add here
-**Filename:** <img width="1470" height="952" alt="image" src="https://github.com/user-attachments/assets/3da0baa7-1e74-4e4e-ad9a-9608745acd8e" />
+<img width="1470" height="952" alt="image" src="https://github.com/user-attachments/assets/3da0baa7-1e74-4e4e-ad9a-9608745acd8e" />
 
 
 Capture the complete application immediately after launching it. Use this as the main **Getting Started** visual immediately after the run command.
@@ -566,8 +562,7 @@ delta(t-2)
 2*delta(t+1)
 ```
 
-### Screenshot to add here
-**Filename:** <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/dec1c010-72f5-45cf-8f43-99040465e05c" />
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/dec1c010-72f5-45cf-8f43-99040465e05c" />
 
 
 Plot:
@@ -699,8 +694,8 @@ r(-t)
 2*r(t)
 ```
 
-### Screenshot to add here
-**Filename:** `screenshots/06-transformations.png`
+<img width="483" height="313" alt="image" src="https://github.com/user-attachments/assets/ded5e1e4-b9af-407f-a4eb-a66d719c5780" />
+
 
 Use one expression that demonstrates at least two transformations, for example:
 
@@ -744,8 +739,8 @@ r(t)-2*r(t-1)+r(t-2)
 
 This is especially useful for learning how a triangular waveform can be assembled from ramps.
 
-### Screenshot to add here
-**Filename:** `screenshots/07-triangle-from-ramps.png`
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/3ce7f71b-fe43-4644-94c8-00eb2d6ec161" />
+
 
 Plot:
 
@@ -779,8 +774,8 @@ The program checks that:
 - the lower bound is smaller than the upper bound
 - the interval is not excessively large
 
-### Screenshot to add here
-**Filename:** `screenshots/08-time-range.png`
+<img width="362" height="134" alt="image" src="https://github.com/user-attachments/assets/2b5eb67d-bf02-4874-a6ae-d20f58b9940b" />
+
 
 Show the time-range controls with a changed interval such as:
 
@@ -869,8 +864,8 @@ Exports the current graph as a PDF.
 
 Exports the sampled time and amplitude values.
 
-### Screenshot to add here
-**Filename:** `screenshots/09-toolbar.png`
+<img width="375" height="766" alt="image" src="https://github.com/user-attachments/assets/11dcd070-9a45-40cf-b40a-9c1f42591b03" />
+
 
 Capture only the upper portion of the application, with the complete two-row toolbar visible. Make sure labels are readable.
 
@@ -890,8 +885,8 @@ The File menu provides:
 - Export Samples as CSV
 - Exit
 
-### Screenshot to add here
-**Filename:** `screenshots/10-file-menu.png`
+<img width="326" height="234" alt="image" src="https://github.com/user-attachments/assets/7ca6042d-0f3a-45ee-aed3-bdd2ff286bc0" />
+
 
 Open the File menu and capture the complete dropdown.
 
@@ -910,23 +905,10 @@ The Functions menu contains:
 - History
 - Favorites
 
-### Screenshot to add here
-**Filename:** `screenshots/11-functions-menu.png`
 
 Open the **Functions** menu so that the top-level categories are visible. Do not worry about opening every submenu in one screenshot; one screenshot can show the structure, while additional screenshots can show important submenus if desired.
 
-### Optional extra screenshots
 
-```text
-screenshots/11a-basic-signals-menu.png
-screenshots/11b-transformations-menu.png
-screenshots/11c-constructions-menu.png
-screenshots/11d-math-menu.png
-```
-
-These are optional because the README already documents the individual functions.
-
----
 
 ## Analysis menu
 
@@ -939,8 +921,8 @@ The Analysis menu provides:
 - Approximate Area
 - Moving Value Cursor
 
-### Screenshot to add here
-**Filename:** `screenshots/12-analysis-menu.png`
+<img width="215" height="193" alt="image" src="https://github.com/user-attachments/assets/145e6db6-5982-4e18-bc2c-f9197fd370df" />
+
 
 Open the Analysis menu and capture the complete dropdown.
 
@@ -959,8 +941,8 @@ The View menu controls:
 - Fit / Reset View
 - Toggle Dark Mode
 
-### Screenshot to add here
-**Filename:** `screenshots/13-view-menu.png`
+<img width="234" height="342" alt="image" src="https://github.com/user-attachments/assets/f351a7f6-7515-4528-99fd-c569cea41274" />
+
 
 Open the View menu and capture it over the graph.
 
@@ -975,8 +957,8 @@ The Help menu contains:
 - Keyboard Shortcuts
 - About
 
-### Screenshot to add here
-**Filename:** `screenshots/14-help-menu.png`
+<img width="367" height="181" alt="image" src="https://github.com/user-attachments/assets/80522b11-ce7f-4660-9886-3910ffaab25f" />
+
 
 Open the Help menu and capture the complete dropdown.
 
@@ -1001,8 +983,8 @@ The statistics dialog reports:
 
 The area is calculated numerically with NumPy's trapezoidal integration function.
 
-### Screenshot to add here
-**Filename:** `screenshots/15-statistics.png`
+<img width="264" height="340" alt="image" src="https://github.com/user-attachments/assets/ffb06d50-9d75-4e87-a7ef-3fc191cd52ca" />
+
 
 Plot a simple but non-trivial signal, then open **Analysis → Signal Statistics**. Capture the statistics dialog with the graph visible behind it when possible.
 
@@ -1020,8 +1002,8 @@ t                 x(t)
 
 Up to 200 evenly distributed sample locations are shown.
 
-### Screenshot to add here
-**Filename:** `screenshots/16-inspect-values.png`
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/2477f507-4d2b-4ac8-8697-a0426eb6e3b4" />
+
 
 Open **Inspect Sample Values** and capture the resulting window.
 
@@ -1045,8 +1027,8 @@ r(t-1)
 
 The graph then shows both waveforms using separate line styles/legend entries.
 
-### Screenshot to add here
-**Filename:** `screenshots/17-compare.png`
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/e867f50e-0979-429a-a5d6-be4ac51c2524" />
+
 
 Use a clearly shifted pair such as:
 
@@ -1068,16 +1050,8 @@ Capture the comparison graph and its legend.
 
 The peak tool finds the largest absolute sampled amplitude and reports its approximate value and location.
 
-### Screenshot recommendation
-A screenshot is optional here. If you include one:
+<img width="262" height="211" alt="image" src="https://github.com/user-attachments/assets/fb193fbf-8c14-4280-a939-8cb62b0ba797" />
 
-```text
-screenshots/18-peak-dialog.png
-```
-
-Capture the peak dialog.
-
----
 
 ## Approximate Area
 
@@ -1085,14 +1059,8 @@ The area tool numerically integrates the plotted signal over the visible time ra
 
 This is an approximation based on the sampled waveform.
 
-### Screenshot recommendation
-Optional:
+<img width="270" height="222" alt="image" src="https://github.com/user-attachments/assets/bef3d23e-ddc9-48cf-bcac-b060fad0535e" />
 
-```text
-screenshots/19-area-dialog.png
-```
-
----
 
 ## Moving Value Cursor
 
@@ -1105,8 +1073,8 @@ x(t)
 
 As the pointer moves over the graph, the reported values update.
 
-### Screenshot to add here
-**Filename:** `screenshots/20-moving-cursor.png`
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/e19acf6b-f928-4754-a910-eccec651a8ca" />
+
 
 Move the cursor over a point where the signal has an easy-to-understand value. Capture the graph with the vertical cursor line and the small value label visible.
 
@@ -1144,8 +1112,6 @@ Favorites can be:
 - removed individually
 - cleared completely
 
-### Screenshot to add here
-**Filename:** `screenshots/21-history-favorites.png`
 
 Create a few expressions, add at least one favorite, then open **Functions → Favorites** or **Functions → History** and capture the resulting menu.
 
@@ -1231,8 +1197,8 @@ This is useful for further processing in:
 - spreadsheets
 - other numerical tools
 
-### Screenshot to add here
-**Filename:** `screenshots/22-export.png`
+<img width="370" height="260" alt="image" src="https://github.com/user-attachments/assets/543b3ab3-a0f4-451c-9fe6-16af78e85983" />
+
 
 Open one of the Save/Export dialogs and capture the filename/type selection. Do not include private directory names in the screenshot.
 
@@ -1272,14 +1238,8 @@ When **Help** or **Open Help Book** is selected, the application asks the operat
 
 If the file is missing, the application displays a warning explaining the expected filename and location.
 
-### Screenshot to add here
-**Filename:** `screenshots/23-help-book.png`
 
-Capture the first page of the Help Book PDF open on your screen.
 
-For the README, use this screenshot after the Help Book explanation rather than putting a huge PDF page image near the top of the document.
-
----
 
 # Keyboard shortcuts
 
@@ -1297,16 +1257,12 @@ The main shortcuts shown by the application are:
 
 The Help menu also provides a **Keyboard Shortcuts** dialog.
 
-### Screenshot recommendation
-Optional:
 
-```text
-screenshots/24-shortcuts.png
-```
 
-Capture the shortcuts dialog.
+<img width="512" height="451" alt="image" src="https://github.com/user-attachments/assets/bf2f9704-0cb9-4107-9ed8-6539ab39b381" />
 
----
+
+
 
 # Examples
 
@@ -1413,90 +1369,7 @@ This is useful for studying shifted impulses and sign/amplitude changes.
 
 ---
 
-# Screenshot guide
 
-This section is the recommended image plan for the GitHub README.
-
-Do **not** take screenshots of Terminal unless the README section specifically discusses installation. For the main project presentation, use clean screenshots containing only the application and relevant dialogs.
-
-## Recommended screenshot set
-
-| # | Filename | What to capture | Where to place it |
-|---|---|---|---|
-| 1 | `01-main-expression.png` | Full app with a non-trivial expression and graph | Near the top after project introduction |
-| 2 | `02-function-palette.png` | Sidebar function buttons | Basic function section |
-| 3 | `03-scrollable-sidebar.png` | Scrollable sidebar | Sidebar/interface section |
-| 4 | `04-first-launch.png` | Fresh application launch | Running the application |
-| 5 | `05-impulse.png` | `2*delta(t-2)` graph | Impulse section |
-| 6 | `06-transformations.png` | Shift/scale/time transformation | Transformations section |
-| 7 | `07-triangle-from-ramps.png` | Triangle constructed from ramps | Signal constructions section |
-| 8 | `08-time-range.png` | Changed time interval + graph | Time range section |
-| 9 | `09-toolbar.png` | Full two-row toolbar | Toolbar section |
-| 10 | `10-file-menu.png` | File dropdown | File menu section |
-| 11 | `11-functions-menu.png` | Functions dropdown | Functions menu section |
-| 12 | `12-analysis-menu.png` | Analysis dropdown | Analysis menu section |
-| 13 | `13-view-menu.png` | View dropdown | View menu section |
-| 14 | `14-help-menu.png` | Help dropdown | Help menu section |
-| 15 | `15-statistics.png` | Statistics dialog | Statistics section |
-| 16 | `16-inspect-values.png` | Sample-value window | Inspect Values section |
-| 17 | `17-compare.png` | Two signals on same graph | Compare section |
-| 18 | `20-moving-cursor.png` | Cursor + value readout | Moving cursor section |
-| 19 | `21-history-favorites.png` | History/Favorites menu | History/Favorites section |
-| 20 | `22-export.png` | Save/export dialog | Export section |
-| 21 | `23-help-book.png` | Help Book first page | Help Book section |
-| 22 | `24-shortcuts.png` | Shortcut dialog | Keyboard shortcut section |
-| 23 | `25-rectangular-pulse.png` | Step-built pulse | Examples section |
-
-You do **not** need to use every optional screenshot. A polished README can look excellent with roughly 10–14 carefully chosen images.
-
----
-
-## Best screenshot selection for a professional README
-
-For a cleaner GitHub page, the highest-value screenshots are:
-
-1. **Main application** — `01-main-expression.png`
-2. **Function palette** — `02-function-palette.png`
-3. **Triangle from ramps** — `07-triangle-from-ramps.png`
-4. **Impulse handling** — `05-impulse.png`
-5. **Analysis statistics** — `15-statistics.png`
-6. **Signal comparison** — `17-compare.png`
-7. **Moving cursor** — `20-moving-cursor.png`
-8. **Dark mode** — add `26-dark-mode.png` if you want a theme screenshot
-9. **Help Book** — `23-help-book.png`
-10. **Toolbar/menu** — `09-toolbar.png`
-
-This selection communicates what the software looks like, what it can do, and why it is useful without turning the README into a gallery.
-
----
-
-# How to add screenshots to the README
-
-Create a folder named:
-
-```text
-screenshots
-```
-
-inside the project directory.
-
-Put your screenshot files there.
-
-Then Markdown can display an image like this:
-
-```markdown
-![Signals & Systems Studio main window](screenshots/01-main-expression.png)
-```
-
-For a caption, use:
-
-```markdown
-*Signals & Systems Studio with a triangular signal entered as an expression.*
-```
-
-For the cleanest appearance, keep the images reasonably sized and use screenshots with the same overall window dimensions.
-
----
 
 # Troubleshooting
 
@@ -1931,35 +1804,9 @@ This order shows the project visually before asking the reader to read technical
 ---
 
 # License
-
-Add the license that you intend to use for the project here.
-
-For example, if the project is released under MIT:
-
-```text
 MIT License
 Copyright (c) 2026 Shivay
-```
 
-Replace this section with the actual license text before publishing the repository.
 
----
-
-## Screenshot checklist before publishing
-
-Before pushing the README to GitHub, check that:
-
-- [ ] all images are inside `screenshots/`
-- [ ] filenames exactly match the Markdown references
-- [ ] screenshots contain no private file paths or personal information
-- [ ] text in screenshots is readable at normal GitHub size
-- [ ] the main screenshot is placed near the top
-- [ ] at least one screenshot shows a real expression being plotted
-- [ ] at least one screenshot shows a signal construction
-- [ ] at least one screenshot shows analysis
-- [ ] at least one screenshot shows exporting or the Help Book
-- [ ] dark mode screenshot is included if you want to showcase themes
-
----
 
 **Signals & Systems Studio** — a small visual laboratory for learning how mathematical signal expressions become waveforms.
