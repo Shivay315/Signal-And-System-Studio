@@ -146,7 +146,8 @@ r(t)-2*r(t-1)+r(t-2)
 Press **Enter** in the expression field or press **Plot expression**.
 
 ### Screenshot to add here
-**Filename:** `screenshots/01-main-expression.png`
+**Filename:** <img width="1470" height="926" alt="image" src="https://github.com/user-attachments/assets/877a9c60-fc1f-46df-ae8b-2fdf0c39fe36" />
+
 
 Capture the complete application window while the expression box contains a non-trivial example such as:
 
@@ -186,7 +187,8 @@ Available quick-entry signals include:
 Clicking one of these buttons inserts the function into the expression field.
 
 ### Screenshot to add here
-**Filename:** `screenshots/02-function-palette.png`
+**Filename:** <img width="370" height="211" alt="image" src="https://github.com/user-attachments/assets/ad61e9d9-8c40-4602-ba59-52a01e4c683d" />
+
 
 Capture the left sidebar with the **Insert functions** section fully visible. Make sure the graph is also visible on the right so readers can understand that the buttons are connected to the plotter.
 
@@ -203,7 +205,8 @@ The sidebar is designed to work with normal mouse-wheel input and macOS trackpad
 The embedded sidebar width is constrained to the visible panel so that controls do not intentionally create a horizontal overflow.
 
 ### Screenshot to add here
-**Filename:** `screenshots/03-scrollable-sidebar.png`
+**Filename:** <img width="407" height="841" alt="image" src="https://github.com/user-attachments/assets/8ed778f4-5b5d-4f60-988e-545437059e36" />
+
 
 Capture the application at a smaller vertical size where the lower sidebar sections are partially hidden. Then scroll the sidebar down and capture a second image.
 
@@ -359,7 +362,8 @@ The program should open as a desktop application.
 The application automatically plots the default expression when it starts.
 
 ### Screenshot to add here
-**Filename:** `screenshots/04-first-launch.png`
+**Filename:** <img width="1470" height="952" alt="image" src="https://github.com/user-attachments/assets/3da0baa7-1e74-4e4e-ad9a-9608745acd8e" />
+
 
 Capture the complete application immediately after launching it. Use this as the main **Getting Started** visual immediately after the run command.
 
@@ -563,7 +567,8 @@ delta(t-2)
 ```
 
 ### Screenshot to add here
-**Filename:** `screenshots/05-impulse.png`
+**Filename:** <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/dec1c010-72f5-45cf-8f43-99040465e05c" />
+
 
 Plot:
 
