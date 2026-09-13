@@ -29,6 +29,9 @@ and plot them interactively.
 
 <img width="1200" height="603" alt="image" src="https://github.com/user-attachments/assets/906a5e51-fff5-4c66-9ad8-f689370b5830" />
 
+<img width="1200" height="603" alt="image" src="https://github.com/user-attachments/assets/4ecb89c0-5ed7-4491-b370-9dfce2244778" />
+
+
 
 ## Requirements
 
